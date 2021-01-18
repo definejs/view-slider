@@ -1,6 +1,6 @@
 {
   "name": "@definejs/view-slider",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,9 +13,9 @@
     "url": "https://github.com/definejs/view-slider.git"
   },
   "dependencies": {
-    "@definejs/fn": "^0.1.1",
-    "@definejs/masker": "^0.1.2",
-    "@definejs/string": "^0.1.4",
-    "@definejs/transition-end": "^0.1.0"
+    "@definejs/fn": "^1.0.0",
+    "@definejs/masker": "^1.0.0",
+    "@definejs/string": "^1.0.0",
+    "@definejs/transition-end": "^1.0.0"
   }
 }
